@@ -5,6 +5,7 @@ public class HelloTest {
 	public static void main(String[] args) {
 		
 		System.out.println("TestmergeMaster");
+		System.out.println("Testbase");
 		
 		
 	}
