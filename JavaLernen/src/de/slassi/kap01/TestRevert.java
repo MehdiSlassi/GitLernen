@@ -8,6 +8,8 @@ public class TestRevert {
 		System.out.println("Test Merge");
 		System.out.println("jetzt lerne ich ");
 		System.out.println("jetzt lerne ich den Befehl amend ");
+		System.out.println("jetzt lerne ich den rebease");
+		
 	}
 
 }
