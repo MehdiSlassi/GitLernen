@@ -7,6 +7,8 @@ public class HelloTest {
 		System.out.println("zweitePerson_lernt_rebase");
 		System.out.println("zweitePerson prüftmerge");
 		System.out.println("master _lernt_rebase");
+		System.out.println("zweitePerson testet neue rebase");
+
 	}
 
 }
