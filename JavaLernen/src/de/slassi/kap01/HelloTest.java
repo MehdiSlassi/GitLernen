@@ -8,7 +8,7 @@ public class HelloTest {
 		System.out.println("erste kommit auf master");
 		System.out.println("erste kommit von slassi");
 		System.out.println("zweite kommit von slassi");
-		System.out.println("erste kommit Joachim")
+		System.out.println("erste kommit Joachim");
 
 
 		
