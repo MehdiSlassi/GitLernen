@@ -7,6 +7,9 @@ public class TestRevert {
 		System.out.println("erstePerson lernt rebease");
 		System.out.println("erstePerson lernt rebease wieder");
 		
+		System.out.println("komitmaster1");
+		//System.out.println("erstePerson lernt rebease wieder");
+		
 	}
 
 }
