@@ -6,8 +6,9 @@ public class TestRebase {
 		// Salssi Änderungen
 		System.out.println( "Hallo Merge");
 		System.out.println( "Hallo rebase");
-		
 		//Joachim Änderung
+		System.out.println( "Hallo rebase neu");
+		//Joachim zweite Änderung
 	}
 
 }
