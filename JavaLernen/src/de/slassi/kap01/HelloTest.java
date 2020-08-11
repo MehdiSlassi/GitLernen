@@ -9,11 +9,6 @@ public class HelloTest {
 		System.out.println("erste kommit von slassi");
 		System.out.println("zweite kommit von slassi");
 		System.out.println("erste kommit Joachim");
-
-
-		
-	
-		
 	
 	}
 
