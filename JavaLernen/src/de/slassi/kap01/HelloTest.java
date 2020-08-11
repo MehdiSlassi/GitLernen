@@ -7,6 +7,7 @@ public class HelloTest {
 		
 		System.out.println("neue Kommit auf masterneu nach abbranch");
 		System.out.println("kommit1neumaster");
+		System.out.println("kommit2neumaster");
 	}
 
 }
